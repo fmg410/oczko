@@ -1,4 +1,3 @@
-#pragma once
 #include "Kasyno.h"
 #include "Gracz.h"
 #include "Bot.h"
